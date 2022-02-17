@@ -243,9 +243,9 @@ under the License.
       <artifactId>wiremock</artifactId>
       <!-- that's a very old version, but it's the newest one that brings in
            a old guava version, that is compatible with maven 3.1.1.
-           maven 3.1.1 uses guava 11, wiremock 1.49 uses guava 13.0.1
+           maven 3.1.1 uses guava 11, wiremock 2.27.2 uses guava 13.0.1
       -->
-      <version>1.49</version>
+      <version>2.27.2</version>
       <scope>test</scope>
     </dependency>
     <dependency>
